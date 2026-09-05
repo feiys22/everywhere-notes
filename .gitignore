@@ -1,0 +1,38 @@
+# 本机 AI / 编辑器状态（不上传）
+.agents/
+.claude/
+.claudian/
+.codex/
+.cursor/
+.vscode/
+
+# Obsidian 本机配置、插件缓存与工作区状态（不上传）
+.obsidian/
+
+# 操作系统与编辑器临时文件
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Python / Jupyter 缓存与本地环境
+**/.venv/
+**/__pycache__/
+**/.ipynb_checkpoints/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# 密钥与本机配置
+.env
+.env.*
+!.env.example
+
+# 协作者本地文件（易产生同步冲突，仅保留目录说明）
+local/**
+!local/README.md
+
+# 可重新生成的实验产物仅保留在本机；目录说明仍上传
+raw/outputs/**
+!raw/outputs/README.md
