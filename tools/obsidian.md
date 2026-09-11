@@ -20,8 +20,8 @@ Obsidian 默认 **实时预览**：打 `## 标题` 回车，屏幕上就是标�
 - `[[另一篇笔记]]` 双向链接。被提到的那篇右边会列出「谁链到了我」。
 
 写代码我还是回 VSCode。记笔记、读 PDF、看链接网，用 Obsidian。
-![[Pasted image 20260911162827.png]]
-![[Pasted image 20260911162843.png]]
+![](<../images/Pasted image 20260911162827.png>)
+![](<../images/Pasted image 20260911162843.png>)
 
 ---
 
@@ -34,7 +34,7 @@ Obsidian 默认 **实时预览**：打 `## 标题` 回车，屏幕上就是标�
 
 界面三块：左文件列表，中编辑，右反向链接/大纲。左下角齿轮是设置。
 
-![[Pasted image 20260911163008.png]]
+![](<../images/Pasted image 20260911163008.png>)
 
 ### 三种模式
 
@@ -46,12 +46,12 @@ Obsidian 默认 **实时预览**：打 `## 标题` 回车，屏幕上就是标�
 
 右上角切换。日常就用实时预览。
 
-![[Pasted image 20260911163226.png]]
+![](<../images/Pasted image 20260911163226.png>)
 
 
 - **关系图谱**：挺有意思的：
 
-![[Pasted image 20260911163433.png]]
+![](<../images/Pasted image 20260911163433.png>)
 
 
 
@@ -65,7 +65,7 @@ Obsidian 默认 **实时预览**：打 `## 标题` 回车，屏幕上就是标�
 
 设置 → 外观 → 主题 → 管理，搜 `Minimal`，安装并启用。作者 kepano。干净，长时间读不累。我从一开始就用这个，没换过。暗色亮色都行。
 
-![[Pasted image 20260911163524.png]]
+![](<../images/Pasted image 20260911163524.png>)
 
 ---
 
@@ -73,7 +73,7 @@ Obsidian 默认 **实时预览**：打 `## 标题` 回车，屏幕上就是标�
 
 设置 → 第三方插件 → **关闭安全模式** → 浏览 → 搜索 → 安装完还要再点 **启用**。只装不启用等于没装。
 
-![[Pasted image 20260911163559.png]]
+![](<../images/Pasted image 20260911163559.png>)
 
 Obsidian 生态很大，GitHub 上自己挖。我天天开的就这四个。
 
@@ -83,7 +83,7 @@ Obsidian 生态很大，GitHub 上自己挖。我天天开的就这四个。
 
 两件事好评：默认带上当前文件，甚至某一行；可以同时开好几个会话。AI 用多了以后，等一个任务跑完才能开下一句，受不了。
 
-![[images/Pasted image 20260911144440.png]]
+![](<../images/Pasted image 20260911144440.png>)
 
 图里链接了当前这篇，还带了选中的一行。模型、工作量、YOLO 开关自己调。平板上基本用不上，它依赖电脑本地的 agent。
 
@@ -97,7 +97,7 @@ Obsidian 生态很大，GitHub 上自己挖。我天天开的就这四个。
 
 左下角能看到同没同步。平板上也是这个插件，配置写在后面。
 
-![[Pasted image 20260911163823.png]]
+![](<../images/Pasted image 20260911163823.png>)
 
 ### Excalidraw
 
@@ -107,7 +107,7 @@ Obsidian 生态很大，GitHub 上自己挖。我天天开的就这四个。
 
 
 
-![[Pasted image 20260911164422.png]]
+![](<../images/Pasted image 20260911164422.png>)
 
 ### PDF++
 
@@ -115,7 +115,7 @@ Obsidian 生态很大，GitHub 上自己挖。我天天开的就这四个。
 
 平板上手写不是在 Obsidian 里直接画，装 Handwritten Notes，打开 PDF 点钢笔会跳到 Xodo，存完切回来。后面单独写。
 
-![[Pasted image 20260911164217.png]]
+![](<../images/Pasted image 20260911164217.png>)
 
 ---
 
@@ -202,7 +202,7 @@ This document is intentionally abstract. It describes the idea, not a specific i
 
 我自己就是一边开 Obsidian 点链接、看图谱，一边用 Claudian 或终端里的 agent 改 `wiki/`。写代码仍回 VSCode。两边打开的可以是同一个文件夹。
 
-![[Pasted image 20260911164558.png]]
+![](<../images/Pasted image 20260911164558.png>)
 
 ---
 
@@ -231,7 +231,7 @@ This document is intentionally abstract. It describes the idea, not a specific i
 
 建议打开git插件中的启动自动拉取：
 
-![[Pasted image 20260911164729.png]]
+![](<../images/Pasted image 20260911164729.png>)
 
 注意：
 
@@ -258,7 +258,7 @@ Xodo 别装应用商店最新版，会员和广告都多。从 APKMirror 装（�
 
 APKMirror 网页广告很多，认准蓝色 `Download APK`，不要点绿色 “get it” 广告按钮。
 
-![[Pasted image 20260911164848.png]]
+![](<../images/Pasted image 20260911164848.png>)
 
 标完回到 Obsidian，用 Git 插件提交。同一份不要电脑和平板同时标，二进制冲突几乎救不回来。
 
@@ -270,14 +270,14 @@ APKMirror 网页广告很多，认准蓝色 `Download APK`，不要点绿色 “
 
 电脑上：
 
-![[Pasted image 20260911165028.png]]
+![](<../images/Pasted image 20260911165028.png>)
 
 1. 打开任意一张 Excalidraw 画板，右边素材栏点 **浏览素材库**
 2. 挑好的下载下来（一般是 `.excalidrawlib`）
 3. 素材栏右上角三个点 → **导入**，选刚下的文件
 4. Git 插件 commit + push
 
-![[Pasted image 20260911165608.png]]
+![](<../images/Pasted image 20260911165608.png>)
 
 平板上：Git 插件 pull。打开画板，右边素材栏里已经有了，直接拖出来用。不要再走一遍下载。
 
